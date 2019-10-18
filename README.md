@@ -9,7 +9,7 @@ you can set the supervisorctl path in the head of the file.
 
 # demo
 
-![Demo PNG](demo.png)
+![Demo PNG](screenshot.png)
 
 ![Demo Video](demo.mov)
 
