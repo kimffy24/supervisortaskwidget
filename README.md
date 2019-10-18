@@ -7,7 +7,9 @@ mv TaskTable.widget to your widget floder
 # config
 you can set the supervisorctl path in the head of the file.
 
-# demo video
+# demo
+
+![Demo PNG](demo.png)
 
 ![Demo Video](demo.mov)
 
