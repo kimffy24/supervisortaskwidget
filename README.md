@@ -11,6 +11,8 @@ you can set the supervisorctl path in the head of the file.
 
 ![Demo PNG](screenshot.png)
 
-![Demo Video](https://raw.githubusercontent.com/kimffy24/supervisortaskwidget/master/demo.mov)
+![Demo Video](demo.mov)
+
+demo video : https://raw.githubusercontent.com/kimffy24/supervisortaskwidget/master/demo.mov
 
 Welcome https://github.com/kimffy24/supervisortaskwidget
